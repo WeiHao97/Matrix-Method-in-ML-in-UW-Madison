@@ -1,2 +1,4 @@
 # Matrix-Method-in-ML-in-UW-Madison
 This is the final project for ECE 532: Matrix Method in Machine Learning I took in UW-Madison. This tutorial introduces the concept of Elastic Net to students.
+________________________________________________________________________________________________________________________________________
+When performing linear regression or classification, there are some regularization terms to choose. Using what we have learned  from Ridge Regression and LASSO in class, this project will introduce a hybrid of Ridge and LASSO, which is called ‘Elastic Net’. Empirical studies have suggested that the Elastic Net can outperform LASSO and Ridge Regression on data with highly correlated features. In other words, it can be more practical than merely using Ridge Regression or LASSO. This project will explore the advantages of Elastic Net by comparing the performance of these regularizations on a leukemia dataset.
